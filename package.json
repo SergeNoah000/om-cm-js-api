@@ -1,0 +1,37 @@
+{
+  "name": "test-om-api",
+  "version": "1.0.0",
+  "description": "C'est pour test l'api Orange Money Cameroun, elle est en production",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SergeNoah000/om-cm-js-api.git"
+  },
+  "keywords": [
+    "om",
+    "om-cm",
+    "api",
+    "payement",
+    "payment-api",
+    "orange",
+    "orange-money",
+    "cm"
+  ],
+  "author": "Serge Noah, Etudiant à l'université de Yaoundé I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeNoah000/om-cm-js-api/issues"
+  },
+  "homepage": "https://github.com/SergeNoah000/om-cm-js-api#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "buffer": "^6.0.3",
+    "dotenv": "^16.5.0",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
+  }
+}

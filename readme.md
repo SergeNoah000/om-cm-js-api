@@ -118,7 +118,7 @@ MIT License – tu peux l’utiliser librement dans tes projets personnels ou pr
 ## 👥 Auteur
 
 Serge Noah  
-LinkedIn : [[nsergenoah](https://www.linkedin.com/in/sergenoah/)]  
+LinkedIn : [[sergenoah](https://www.linkedin.com/in/sergenoah/)]  
 GitHub : [[SergeNoah000](https://github.com/SergeNoah000)]
 
 ---

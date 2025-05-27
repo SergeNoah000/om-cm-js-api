@@ -27,7 +27,7 @@ async function main() {
             'order1234',             // Order ID
             'Je suis serge Noah je test l\'api OM',        // Description
             '690439748',           // Numéro du client
-            'https://webhook.site/0ece9cf9-2232-4d2a-9c3e-14ef0100db09' // URL de notification
+            process.env.NOTIF_URL || 'https://webhook.site/0ece9cf9-2232-4d2a-9c3e-14ef0100db09' // URL de notification
         );
 
         console.log("Réponse du paiement :", result);
